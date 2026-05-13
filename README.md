@@ -5,6 +5,8 @@ Static landing page for Builty, the owner of CleanCal, Attendly, Sessia, Carlito
 ## Files
 
 - `index.html` is the full landing page.
+- `privacy.html` is the Builty privacy policy.
+- `terms.html` is the Builty terms of service.
 - `styles.css` holds all layout and visual styling.
 - `assets/builty-ecosystem.png` is the hero image generated from `assets/builty-ecosystem.svg`.
 - `robots.txt` allows crawling.
