@@ -1,6 +1,6 @@
 # Builty Landing
 
-Static landing page for Builty, the owner of CleanCal, Attendly, Sessia, Carlitos, Staywise, and Ayla.
+Static landing page for Builty, the owner of CleanCal, Attendly, Sessia, Carlitos, Staywise, Ayla, and AylaManager.
 
 ## Files
 
