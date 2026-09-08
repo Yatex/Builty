@@ -1,18 +1,27 @@
-# Builty Landing
+# Builty — Real estate software studio
 
-Static landing page for Builty, the owner of CleanCal, Attendly, Sessia, Carlitos, Staywise, Ayla, and AylaManager.
+Three responsive landing page directions, sharing a focused portfolio: CleanCal, Staywise, Ayla, and AylaManager.
+
+- `index.html` — **Architecture:** warm neutrals, terracotta, original isometric buildings, and illustrative product previews.
+- `option-2.html` — **Editorial:** forest green, expressive serif typography, architectural artwork, and a considered product collection.
+- `option-3.html` — **Blueprint:** cobalt, bold typography, a navigable product map, and a systematic portfolio.
+
+Use the design direction links at the top of each page to compare options. Each page works without JavaScript. Alternative directions are marked `noindex` while under review.
+
+## Preview
+
+Run `python3 -m http.server 5173` from this directory and open `http://localhost:5173`.
 
 ## Files
 
-- `index.html` is the full landing page.
-- `privacy.html` is the Builty privacy policy.
-- `terms.html` is the Builty terms of service.
-- `styles.css` holds all layout and visual styling.
-- `assets/builty-ecosystem.png` is the hero image generated from `assets/builty-ecosystem.svg`.
-- `robots.txt` allows crawling.
+- `landing.css` styles all three directions, including mobile layouts and reduced motion preferences.
+- `assets/architecture.svg` and `assets/elevation.svg` are original local architectural illustrations.
+- `assets/builty-real-estate.png` is the social sharing image for the focused portfolio.
+- `privacy.html`, `terms.html`, and `styles.css` contain the existing legal pages and their styling.
+- `assets/builty-ecosystem.*` are legacy assets, no longer used by the landing pages.
+
+The CleanCal and Staywise previews are illustrative, not live app interfaces. Existing product availability is preserved: CleanCal and AylaManager have public links; Staywise and Ayla are private builds. Ayla and AylaManager are presented as supporting content tools without claiming property-specific functionality.
 
 ## Deployment
 
-This site has no backend, database, or build step. Deploy the folder as a static site.
-
-When the final public Builty domain is chosen, add a canonical URL and a sitemap that points at that domain.
+There is no backend, database, dependency installation, or build step. Deploy the folder as a static site. Typography loads from Google Fonts, with local serif and sans-serif fallbacks. When a final direction and public domain are chosen, add its canonical URL and sitemap, and make the social sharing image URL absolute.

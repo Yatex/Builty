@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 650" fill="none">
+  <defs>
+    <pattern
+      id="grid"
+      width="48"
+      height="28"
+      patternUnits="userSpaceOnUse"
+      patternTransform="matrix(1 .5 -1 .5 360 20)"
+    >
+      <path d="M48 0H0V28" stroke="#d7cfc1" stroke-width=".6" />
+    </pattern>
+  </defs>
+  <path fill="url(#grid)" d="M15 230 360 55 705 230 705 440 360 615 15 440Z" />
+  <path d="m65 460 295 148 300-150-295-147Z" fill="#e5ddcf" />
+  <path
+    d="m347 207 153 76.5 100 -50.0 -153 -76.5Z"
+    fill="#fff9ed"
+    stroke="#afa493"
+  />
+  <path d="m347 207 153 76.5v224l-153 -76.5Z" fill="#e9e0d0" stroke="#afa493" />
+  <path
+    d="m500 283.5 100 -50.0v224l-100 50.0Z"
+    fill="#c9bdab"
+    stroke="#afa493"
+  />
+  <path d="m363 237.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m363 273.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m363 309.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m363 345.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m363 381.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m363 417.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m388 249.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m388 285.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m388 321.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m388 357.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m388 393.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m388 429.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m413 262.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m413 298.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m413 334.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m413 370.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m413 406.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m413 442.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m438 274.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m438 310.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m438 346.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m438 382.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m438 418.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m438 454.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m463 287.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m463 323.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m463 359.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m463 395.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m463 431.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m463 467.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m488 299.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m488 335.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m488 371.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m488 407.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m488 443.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m488 479.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m512 299.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 335.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 371.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 407.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 443.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 479.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m536 287.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m536 323.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m536 359.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m536 395.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m536 431.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m536 467.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m560 275.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m560 311.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m560 347.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m560 383.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m560 419.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m560 455.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m584 263.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m584 299.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m584 335.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m584 371.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m584 407.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m584 443.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path
+    d="m156 281 141 70.5 86 -43.0 -141 -70.5Z"
+    fill="#fff9ed"
+    stroke="#afa493"
+  />
+  <path d="m156 281 141 70.5v190l-141 -70.5Z" fill="#e9e0d0" stroke="#afa493" />
+  <path d="m297 351.5 86 -43.0v190l-86 43.0Z" fill="#c9bdab" stroke="#afa493" />
+  <path d="m172 311.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m172 347.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m172 383.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m172 419.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m172 455.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m197 323.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m197 359.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m197 395.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m197 431.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m197 467.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m222 336.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m222 372.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m222 408.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m222 444.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m222 480.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m247 348.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m247 384.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m247 420.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m247 456.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m247 492.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m272 361.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m272 397.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m272 433.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m272 469.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m272 505.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m309 367.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m309 403.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m309 439.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m309 475.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m309 511.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m333 355.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m333 391.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m333 427.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m333 463.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m333 499.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m357 343.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m357 379.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m357 415.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m357 451.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m357 487.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path
+    d="m295 375 109 54.5 135 -67.5 -109 -54.5Z"
+    fill="#fff9ed"
+    stroke="#afa493"
+  />
+  <path d="m295 375 109 54.5v120l-109 -54.5Z" fill="#e9e0d0" stroke="#afa493" />
+  <path
+    d="m404 429.5 135 -67.5v120l-135 67.5Z"
+    fill="#c9bdab"
+    stroke="#afa493"
+  />
+  <path d="m311 405.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m311 441.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m311 477.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m336 417.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m336 453.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m336 489.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m361 430.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m361 466.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m361 502.0 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m386 442.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m386 478.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m386 514.5 13 6.5v20l-13-6.5Z" fill="#6e7871" />
+  <path d="m416 445.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m416 481.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m416 517.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m440 433.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m440 469.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m440 505.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m464 421.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m464 457.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m464 493.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m488 409.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m488 445.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m488 481.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 397.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 433.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m512 469.5 12-6v20l-12 6Z" fill="#71766b" />
+  <path d="m319 314 124 62 94-47v-25l-94 47-124-62Z" fill="#d86038" />
+  <path d="m319 289 124 62 94-47-124-62Z" fill="#ed8356" />
+  <path
+    d="M440 340v155m-209-71v91l129 64 217-109v-66"
+    stroke="#cd5b36"
+    stroke-width="2"
+    stroke-dasharray="5 7"
+  />
+  <g fill="#cc5933">
+    <circle cx="440" cy="495" r="5" />
+    <circle cx="231" cy="424" r="5" />
+    <circle cx="577" cy="404" r="5" />
+  </g>
+  <path d="M119 421v-32" stroke="#6a7057" stroke-width="5" />
+  <ellipse cx="119" cy="378" rx="18" ry="27" fill="#849079" />
+  <path d="M119 396v-26" stroke="#657460" />
+  <path d="M545 473v-32" stroke="#6a7057" stroke-width="5" />
+  <ellipse cx="545" cy="430" rx="18" ry="27" fill="#849079" />
+  <path d="M545 448v-26" stroke="#657460" />
+  <path d="M606 410v-32" stroke="#6a7057" stroke-width="5" />
+  <ellipse cx="606" cy="367" rx="18" ry="27" fill="#849079" />
+  <path d="M606 385v-26" stroke="#657460" />
+</svg>
