@@ -6,7 +6,7 @@
     <title>Builty — Software for real estate</title>
     <meta
       name="description"
-      content="Builty is a software studio focused on real estate. Explore products for property operations, guest experiences, and content workflows."
+      content="Builty is a software studio focused on real estate. Explore products for property cleaning and AI guest assistance on Telegram."
     />
     <meta name="theme-color" content="#f7f4ec" />
     <meta name="robots" content="index, follow" />
@@ -38,29 +38,22 @@
         "name": "Builty",
         "description": "A software studio focused on real estate, property operations, and rental experiences.",
         "brand": [
-          { "@type": "Brand", "name": "CleanCal" },
-          { "@type": "Brand", "name": "Staywise" },
-          { "@type": "Brand", "name": "Ayla" },
-          { "@type": "Brand", "name": "AylaManager" }
+          {
+            "@type": "Brand",
+            "name": "CleanCal",
+            "url": "https://cleancal.org/"
+          },
+          {
+            "@type": "Brand",
+            "name": "Ayla",
+            "url": "https://aylamanager.com/"
+          }
         ]
       }
     </script>
   </head>
-  <body class="direction-1" id="top">
+  <body id="top">
     <a class="skip-link" href="#main">Skip to content</a>
-    <div class="concept-bar">
-      <span>DESIGN DIRECTIONS <span class="bar-detail">/ BUILTY</span></span>
-      <nav aria-label="Design options">
-        <a href="index.html" aria-current="page"
-          ><span class="option-number">01</span> Architecture</a
-        ><a href="option-2.html"
-          ><span class="option-number">02</span> Editorial</a
-        ><a href="option-3.html"
-          ><span class="option-number">03</span> Blueprint</a
-        >
-      </nav>
-      <span class="bar-detail">1 / 3</span>
-    </div>
     <header class="header wrap">
       <a class="wordmark" href="#top" aria-label="Builty home"
         ><svg viewBox="0 0 30 32" aria-hidden="true">
@@ -80,9 +73,9 @@
     <main id="main">
       <section class="hero-one wrap">
         <div class="hero-text">
-          <p class="eyebrow">
+          <!--<p class="eyebrow">
             <span class="tiny-dot"></span> SOFTWARE STUDIO / REAL ESTATE
-          </p>
+          </p>-->
           <h1>Better software.<br />Better places<br />to <em>be.</em></h1>
           <p class="lede">
             We build software for the people behind the properties. From
@@ -97,26 +90,20 @@
           </div>
         </div>
         <figure class="architecture">
-          <div class="figure-top">
-            <span>THE BUILTY PERSPECTIVE</span><span>FIG. 01</span>
-          </div>
           <img
             src="assets/architecture.svg"
             alt="Isometric neighborhood of connected buildings, illustrating software supporting real estate"
             width="720"
             height="650"
           />
-          <figcaption>
-            <span class="tiny-dot"></span> Connecting properties, people, and
-            possibilities.
-          </figcaption>
         </figure>
       </section>
       <div class="industry-strip">
         <div class="wrap">
           <span>BUILT AROUND REAL ESTATE</span><span>Property operations</span
           ><i>✳</i><span>Short-term rentals</span><i>✳</i
-          ><span>Guest experiences</span><i>✳</i><span>Property marketing</span>
+          ><span>Guest experiences</span><i>✳</i
+          ><span>Guest communication</span>
         </div>
       </div>
       <section class="projects-one wrap section" id="projects">
@@ -132,7 +119,7 @@
             around every property.
           </p>
         </div>
-        <article class="feature-project">
+        <article class="feature-project" id="cleancal">
           <div class="project-visual clean-visual">
             <div
               class="app-demo"
@@ -193,17 +180,17 @@
             >
           </div>
         </article>
-        <article class="feature-project">
-          <div class="project-visual stay-visual">
+        <article class="feature-project" id="ayla">
+          <div class="project-visual ayla-visual">
             <div
               class="chat-demo"
-              aria-label="Illustrative Staywise guest conversation"
+              aria-label="Illustrative Ayla guest conversation on Telegram"
             >
               <div class="chat-head">
-                <span class="stay-symbol">s.</span>
+                <span class="ayla-symbol">a.</span>
                 <div>
-                  <strong>Staywise</strong
-                  ><small>Your property assistant</small>
+                  <strong>Ayla</strong
+                  ><small>Your Telegram property assistant</small>
                 </div>
                 <span class="tiny-dot"></span>
               </div>
@@ -227,55 +214,23 @@
           <div class="project-copy">
             <div class="project-top">
               <span class="eyebrow">02 / Guest experience</span
-              ><span class="status">Private build</span>
+              ><span class="status live">Live product</span>
             </div>
-            <h3>Staywise</h3>
+            <h3>Ayla</h3>
             <h4>A better stay starts<br />with a helpful answer.</h4>
             <p>
-              An AI guest assistant that answers WhatsApp questions using
-              owner-approved property knowledge.
-            </p>
-            <span class="private-note"
-              >In the studio · Not publicly available</span
-            >
-          </div>
-        </article>
-        <div class="support-heading">
-          <span class="eyebrow">SUPPORTING THE BIGGER PICTURE</span>
-          <p>Content tools for the people promoting the properties.</p>
-        </div>
-        <div class="support-grid">
-          <article class="support-product">
-            <div class="project-top">
-              <h3>Ayla</h3>
-              <span class="status">Private build</span>
-            </div>
-            <p>
-              A Telegram-first assistant that turns daily updates into social
-              media drafts, ready for your approval.
-            </p>
-            <span class="private-note"
-              >In the studio · Not publicly available</span
-            >
-          </article>
-          <article class="support-product">
-            <div class="project-top">
-              <h3>AylaManager</h3>
-              <span class="status live">Live product</span>
-            </div>
-            <p>
-              Plan, draft, approve, and publish AI-assisted social content. A
-              supporting tool for your property marketing workflow.
+              An AI guest assistant available via Telegram. Ayla answers guest
+              questions using owner-approved property knowledge.
             </p>
             <a
               class="text-link"
               href="https://aylamanager.com/"
               target="_blank"
               rel="noopener noreferrer"
-              >Visit AylaManager <span aria-hidden="true">↗</span></a
+              >Visit Ayla <span aria-hidden="true">↗</span></a
             >
-          </article>
-        </div>
+          </div>
+        </article>
       </section>
       <section class="studio-one" id="studio">
         <div class="wrap studio-layout">
