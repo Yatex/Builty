@@ -16,11 +16,12 @@ Run `python3 -m http.server 5173` from this directory and open `http://localhost
 ## Files
 
 - `index.html` contains the landing page and product metadata.
-- `landing.css` contains the landing page styling, mobile layouts, and reduced motion preferences.
+- `landing.css` contains the shared Builty design and landing page styling, including mobile layouts and reduced motion preferences.
 - `assets/architecture.svg` is the original architectural illustration.
 - `assets/favicon.svg` uses the same building symbol and colors as the page wordmark.
 - `assets/builty-real-estate.png` is the social sharing image.
-- `privacy.html`, `terms.html`, and `styles.css` contain the legal pages and their styling.
+- `privacy.html` and `terms.html` contain the Spanish legal documents, with a section index and shared Builty navigation.
+- `legal.css` extends the shared design with legal page layouts, mobile navigation, and print styles. Its separate URL avoids reusing the legacy site's cached `styles.css`.
 
 ## Deployment
 
